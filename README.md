@@ -1,10 +1,33 @@
-<h1 align="center">Hi 👋, I'm Trần Quốc Trung</h1>
-<h3 align="center">A passionate frontend developer from VietNamese</h3>
+<div class="Box-body p-4">
+    <div class="d-flex flex-justify-between">
+      <div class="text-mono text-small mb-3">
+        <a href="/trungqt1905/trungqt1905" class="no-underline Link--primary">trungqt1905</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
+      </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/quoctrung1905/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/quoctrung1905/" height="30" width="40" /></a>
-</p>
+    </div>
+    <article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">Simple Introduce MySelf - Trần Nhật Sang</h1><a id="user-content-simple-introduce-myself---trần-nhật-sang" class="anchor" aria-label="Permalink: Simple Introduce MySelf - Trần Nhật Sang" href="#simple-introduce-myself---trần-nhật-sang"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li>👋 Hi, I’m Tran Quốc Trung, | I am a Web developer</li>
+<li>💞️ I’m interested in programming and coding</li>
+<li><strong>Skills:</strong>
+<ul dir="auto">
+<li><strong>Frontend</strong>: HTML, CSS/SCSS, JavaScript (ECMAScript), TypeScript, ReactJS (Redux, Redux Toolkit, RTK Query)</li>
+<li><strong>Backend</strong>: NodeJS (ExpressJS, NestJS) RESTFul API</li>
+<li><strong>Database</strong>: SQL(MYSQL), NoSQL(MongoDB)</li>
+<li><strong>DevOps</strong>: Github actions, Netlify, Vercel , Hosting, Basic CI/CD (Deployment)</li>
+<li><strong>Libraries/ Frameworks</strong>: Tailwind CSS, Boostrap, Ant Design, Material UI.</li>
+<li><strong>Tools</strong>: Jira.</li>
+<li><strong>Other Skills</strong>: Git, Figma (UI/UX)).</li>
+</ul>
+</li>
+<li>🌱 I’m currently learning and developing web and software development.</li>
+<li>👀 I’m looking to collaborate with a technology company.</li>
+<li>📫 You can reach me by contact via:</li>
+<li><strong>Email</strong>: <a href="mailto:trungqt1905@gmail.com">trungqt1905@gmail.com</a>.</li>
+<li><strong>Website</strong>: <a href="" rel="nofollow">https://</a> to see more about myself</li>
+<li>I am eager to learn and ready for any new technology.</li>
+<li>My quotes: No pain, no gain. Never stop learning</li>
+</ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</article>
+  </div>
