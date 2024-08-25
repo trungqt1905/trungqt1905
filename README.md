@@ -24,7 +24,7 @@
 <li>👀 I’m looking to collaborate with a technology company.</li>
 <li>📫 You can reach me by contact via:</li>
 <li><strong>Email</strong>: <a href="mailto:trungqt1905@gmail.com">trungqt1905@gmail.com</a>.</li>
-<li><strong>Website</strong>: <a href="" rel="nofollow">https://</a> to see more about myself</li>
+<li><strong>Website</strong>: <a href="https://quoc-trung.vercel.app/" rel="nofollow">[https://](https://quoc-trung.vercel.app/)</a> to see more about myself</li>
 <li>I am eager to learn and ready for any new technology.</li>
 <li>My quotes: No pain, no gain. Never stop learning</li>
 </ul>
