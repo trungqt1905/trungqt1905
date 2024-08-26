@@ -12,7 +12,7 @@
 <li><strong>Skills:</strong>
 <ul dir="auto">
 <li><strong>Frontend</strong>: HTML, CSS/SCSS, JavaScript (ECMAScript), TypeScript, ReactJS (Redux, Redux Toolkit, RTK Query)</li>
-<li><strong>Backend</strong>: NodeJS (ExpressJS, NestJS) RESTFull API</li>
+<li><strong>Backend</strong>: Basic NodeJS (ExpressJS) RESTFull API</li>
 <li><strong>Database</strong>: SQL(MYSQL), NoSQL(MongoDB)</li>
 <li><strong>DevOps</strong>: Github actions, Netlify, Vercel , Hosting, Basic CI/CD (Deployment)</li>
 <li><strong>Libraries/ Frameworks</strong>: Tailwind CSS, Boostrap, Ant Design, Material UI.</li>
